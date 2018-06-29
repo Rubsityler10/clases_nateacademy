@@ -25,6 +25,3 @@ else:
                     print('Has ganado, ¡enhorabuena!')
                 else:
                     print('Te has quedado sin intentos, has perdido')
-
-
-
